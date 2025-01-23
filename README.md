@@ -1,4 +1,4 @@
-# EDR and Anti-Virus Security Control Testing 2025
+# EDR and Anti-Virus Security Control Testing
 
 ## Project Title: Assessment Design for Security Controls
 
